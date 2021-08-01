@@ -26,15 +26,15 @@
 
 ## ⬇ Jump To
 
-📃 [Summary]()
+📃 [Summary](#summary)
 
-**👩🏻‍💻** [Work Experience]()
+👩🏻‍💻 [Work Experience](#work-experience)
 
-💻 [Technology]()
+💻 [Technology](#technology)
 
-🖼 [Projects]()
+🖼 [Projects](#projects)
 
-📚 [Education]()
+📚 [Education](#education)
 
 ---
 
