@@ -10,7 +10,7 @@
 
 🖋 Blog - [theconsolelogs.com](https://theconsolelogs.com)
 
-📝 [DEV.to - @bdesigned](https://dev.to/bdesigned)
+📝 DEV.to - [@bdesigned](https://dev.to/bdesigned)
 
 ## ☎️ Contact information
 
