@@ -1,3 +1,5 @@
+![bDesigned](images/notion.jpg)
+![Brittney Postma](images/logs.png)
 # Brittney Postma
 
 ## **Frontend Designer & Developer**
