@@ -99,7 +99,7 @@ Created a new **logo design**, community meetup **templates**, and **emojis** fo
 
     - **Screenshot**
 
-        ![Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled.png](Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled.png)
+        ![images/Untitled.png](images/Untitled.png)
 
     - **Embed**
 
@@ -119,7 +119,7 @@ Created a new **logo design**, community meetup **templates**, and **emojis** fo
 
     - **Screenshot**
 
-        ![Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled%201.png](Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled%201.png)
+        ![images/Untitled%201.png](images/Untitled%201.png)
 
     - **Embed**
 
@@ -139,7 +139,7 @@ Created a new **logo design**, community meetup **templates**, and **emojis** fo
 
     - **Screenshot**
 
-        ![Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled%202.png](Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled%202.png)
+        ![images/Untitled%202.png](images/Untitled%202.png)
 
     - **Embed**
 
@@ -169,7 +169,7 @@ Created a new **logo design**, community meetup **templates**, and **emojis** fo
 
 - [Certificate](https://certificates.cs50.io/1ebc5e06-e622-4318-8546-2610091ba583.pdf?size=letter)
 
-    ![Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled%203.png](Brittney%20Postma%20ac2c97560a30497d84b0e0364c803191/Untitled%203.png)
+    ![images/Untitled%203.png](images/Untitled%203.png)
 
 ### University of Michigan
 
