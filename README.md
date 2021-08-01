@@ -1,3 +1,5 @@
+Original Notion Document [Brittney Postma - Resume](https://beneficial-heliotrope-d14.notion.site/Brittney-Postma-9cccef487437484d8abbbbf322018bcc)
+
 ![bDesigned](images/notion.jpg)
 ![Brittney Postma](images/logs.png)
 # Brittney Postma
