@@ -1,4 +1,4 @@
-![bDesigned](images/notion.png)
+![bDesigned](images/notion.jpg)
 ![Brittney Postma](images/logs.png)
 # Brittney Postma
 
@@ -18,13 +18,11 @@
 
 📧 [bdesignedwebdev@gmail.com](mailto:bdesignedwebdev@gmail.com)
 
-📞 [616-550-1319](tel:616-550-1319)
-
 🔗 [LinkedIn profile](https://www.linkedin.com/in/brittney-postma-868928178/)
 
 🐤 [Twitter - @brittneypostma](https://twitter.com/brittneypostma)
 
-🌿[Github](https://github.com/brittneypostma)
+🌿 [Github](https://github.com/brittneypostma)
 
 ## ⬇ Jump To
 
